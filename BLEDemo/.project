@@ -30,10 +30,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<variableList>
-		<variable>
-			<name>HRM</name>
-			<value>file:/C:/Users/dsanh/git/repository/BLEDemo/Drivers/HRM-POM</value>
-		</variable>
-	</variableList>
 </projectDescription>
