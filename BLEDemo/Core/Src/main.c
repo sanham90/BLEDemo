@@ -23,7 +23,8 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "algorithm.h"
+#include "MAX30102.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
